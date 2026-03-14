@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="justify">Welcome to my GitHub profile. This space is dedicated to the development of tools, scripts, and research related to Structural Engineering, BIM Management, BIM Automation, Generative Design and Data Analytics.</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
