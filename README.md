@@ -2,6 +2,8 @@
 
 <p align="justify">Welcome to my GitHub profile. This space is dedicated to the development of tools, scripts, and research related to Structural Engineering, BIM Management, BIM Automation, Generative Design and Data Analytics.</p>
 
+<p align="justify">My goal is to integrate engineering knowledge, BIM methodologies, programming, and data analysis to automate engineering workflows, improve design verification, and support digital transformation processes in BIM-based projects.</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
