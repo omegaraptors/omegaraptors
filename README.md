@@ -10,15 +10,17 @@
 
 <p align="justify">Main areas of interest:</p>
 
-<p align="justify">- Structural engineering computation</p>
-<p align="justify">- BIM management and project information management</p>
-<p align="justify">- BIM automation</p>
-<p align="justify">- Generative design for engineering systems</p>
-<p align="justify">- Engineering data analytics</p>
-<p align="justify">- Revit API development</p>
-<p align="justify">- ETABS data processing</p>
-<p align="justify">- Structural design verification</p>
-<p align="justify">- Data pipelines for engineering workflows</p>
+<p align="justify">
+- Structural engineering computation<br>
+- BIM management and project information management<br>
+- BIM automation<br>
+- Generative design for engineering systems<br>
+- Engineering data analytics<br>
+- Revit API development<br>
+- ETABS data processing<br>
+- Structural design verification<br>
+- Data pipelines for engineering workflows
+</p>
 
 <p align="justify">I am particularly interested in developing engineering tools that integrate BIM environments, structural analysis software, programmable workflows, and data-driven design methods.</p>
 
