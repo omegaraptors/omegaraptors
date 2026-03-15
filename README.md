@@ -18,7 +18,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,html,css,js,ts,vite,nextjs,nuxtjs,php,react,threejs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,aws,blender,cs,html,css,js,nextjs,nodejs,npm,nuxtjs,obsidian,php,py,pycharm,react,threejs,ts,unity,unreal,visualstudio,vite,vscode" />
   </a>
 </p>
 
