@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFFEE&center=true&width=435&lines=Civil+Engineer;Structural+Designer;BIM+Modeling+Specialist+with+Revit;Engineering+Process+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=2000&pause=250&color=FFFFFFEE&center=true&vCenter=true&multiline=true&height=95&lines=Civil+Engineer;Structural+Designer;BIM+Modeling+Specialist+with+Revit;Engineering+Process+Automation" alt="Typing SVG" /></a>
 
 ---
 
