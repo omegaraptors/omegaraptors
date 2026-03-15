@@ -1,12 +1,14 @@
-## Hi there 👋
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFFEE&width=435&lines=Civil+Engineer+%7C+Structural+Designer" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFFEE&width=435&lines=BIM+Modeling+Specialist+with+Revit+%7C" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFFEE&width=435&lines=Engineering+Process+Automation" alt="Typing SVG" /></a>
+
+---
 
 <p align="justify">Welcome to my GitHub Profile.</p>
 
 <p align="justify">This space is dedicated to the development of tools, scripts, and research related to:</p>
-
----
 
 <p align="justify">
 - Structural Engineering<br>
