@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=2000&pause=250&color=FFFFFFEE&center=true&vCenter=true&multiline=true&width=500&height=95&lines=Civil+Engineer;Structural+Designer;BIM+Modeling+Specialist+with+Revit;Engineering+Process+Automation" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=2000&pause=250&color=FFFFFFEE&center=true&vCenter=true&multiline=true&width=500&height=95&lines=Civil+Engineer;Structural+Designer;BIM+Modeling+Specialist+with+Revit;Engineering+Process+Automation" alt="Typing SVG" />
 </p>
 
 <p align="justify">Welcome to my GitHub Profile.</p>
