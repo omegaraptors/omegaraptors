@@ -4,6 +4,8 @@
 
 <p align="justify">This space is dedicated to the development of tools, scripts, and research related to:</p>
 
+---
+
 <p align="justify">
 - Structural Engineering<br>
 - BIM Management<br>
